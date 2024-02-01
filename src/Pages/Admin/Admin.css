@@ -1,0 +1,50 @@
+/* styles.css */
+
+/* Dashboard Styles */
+nav {
+    background-color: #333;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+  }
+  
+  li {
+    margin-right: 20px;
+    cursor: pointer;
+    color: white;
+  }
+  
+  /* AddDishForm Styles */
+  form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+  }
+  
+  label {
+    margin-bottom: 10px;
+  }
+  
+  input {
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #333;
+    color: white;
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  /* ManageCategories Styles */
+  /* Add your styles for category management UI here */
+  
+  /* ViewOrders Styles */
+  /* Add your styles for viewing orders here */
+  

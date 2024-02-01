@@ -1,0 +1,29 @@
+.leaf2 {
+  width: 20%;
+  position: absolute;
+  bottom: 0px;
+  right: 35px;
+}
+
+.instabtn{
+  padding:5px 10px;
+  font-size:20px;
+  border:1px solid black;
+}
+
+.heading{
+  font-size:64px;
+}
+
+@media (max-width: 767px) {
+  .leaf2 {
+    width: 20%;
+    position: absolute;
+    right: 10px;
+    top: 45%;
+  }
+
+  .heading{
+    font-size:48px;
+  }
+}
